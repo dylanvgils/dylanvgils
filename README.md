@@ -13,7 +13,7 @@
 
 ---
 
-### 🚧 I like to work with
+### 🚧 I enjoy working with
 
 [![DotNet](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/csharp_dotnet.svg)](https://github.com/dotnet)
 [![Go](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/go.svg)](https://github.com/golang)
