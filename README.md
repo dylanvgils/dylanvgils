@@ -6,13 +6,11 @@
 `Distributed systems`, `Azure` and `Kubernetes`
 
 ---
-
 ### 📢 You can find me on
 
 [![LinkedIn](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg)](https://www.linkedin.com/in/dylanvangils/)
 
 ---
-
 ### 🚧 I enjoy working with
 
 [![DotNet](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/csharp_dotnet.svg)](https://github.com/dotnet)
@@ -22,8 +20,8 @@
 [![Docker](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/docker.svg)](https://docker.com)
 
 ---
-
 > Thanks to Mike James for his [ColoredBadges](https://github.com/MikeCodesDotNET/ColoredBadges)
+
 <!--
 **dylanvgils/dylanvgils** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
