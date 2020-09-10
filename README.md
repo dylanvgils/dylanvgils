@@ -1,5 +1,29 @@
 ### Hi there 👋
 
+---
+### 🌱 I’m currently learning
+
+`Distributed systems`, `Azure` and `Kubernetes`
+
+---
+
+### 📢 You can find me on
+
+[![LinkedIn](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg)](https://www.linkedin.com/in/dylanvangils/)
+
+---
+
+### 🚧 I like to work with
+
+[![DotNet](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/csharp_dotnet.svg)](https://github.com/dotnet)
+[![Go](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/go.svg)](https://github.com/golang)
+[![Azure](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/azure.svg)](https://azure.com)
+[![DigitalOcean](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/digitalocean.svg)](https://digitalocean.com)
+[![Docker](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/docker.svg)](https://docker.com)
+
+---
+
+> Thanks to Mike James for his [ColoredBadges](https://github.com/MikeCodesDotNET/ColoredBadges)
 <!--
 **dylanvgils/dylanvgils** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
