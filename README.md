@@ -3,7 +3,7 @@
 ---
 ### 🌱 I’m currently learning
 
-`Distributed systems`, `Azure` and `Kubernetes`
+`Distributed systems`, `Software Architecture` and `Kubernetes`
 
 ---
 ### 📢 You can find me on
