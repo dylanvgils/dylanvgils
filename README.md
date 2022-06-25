@@ -9,7 +9,7 @@
 ### 📢 You can find me on
 
 [![LinkedIn](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg)](https://www.linkedin.com/in/dylanvangils/)
-[![Web](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/misc/web.svg)](https://dylanvangils.com)
+[![Web](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/misc/web.svg)](https://dylanvangils.nl)
 
 ---
 ### 🚧 I enjoy working with
